@@ -1,4 +1,4 @@
-This is the beginner level application developed using reactJS 
+This is the application developed using reactJS 
 <br>
 Entirely a front end web application used to fetch and show real time news using some online APIs
 =======
